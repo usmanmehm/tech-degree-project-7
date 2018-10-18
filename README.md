@@ -17,3 +17,9 @@ In order to view, you can download, open the folder in cmd (or equivalent) and t
 
 After that, you can open up localhost:3000 in the web browser and the website will be live on port 3000!
 
+### Additional edits made to CSS:
+* Transitions on the image thumbnails
+* Changed background colour scheme
+* Changed fonts to give a more creative look
+
+
