@@ -1,10 +1,10 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Slab', serif;
 }
 
   h5{
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
@@ -60,9 +60,13 @@ a:hover{
   transition: transform, 0.3s;
 }
 
+.off-canvas-content {
+  background: #dfd0c0;
+}
+
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #003366;
   color: #fff;
   box-shadow: none !important;
 }
@@ -122,7 +126,7 @@ a:hover{
   }
 
   .thumbnail:hover {
-    transform: scale(1.05) rotate(3deg);
+    transform: scale(1.05);
   }
 
   .portfolio-index a{
