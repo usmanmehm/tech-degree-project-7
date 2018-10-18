@@ -21,7 +21,7 @@
         {
             "id": 2,
             "project_name": "Full Stack Conference Registration Form",
-            "description": "",
+            "description": "This registration form is for a mock Full Stack Conference. In order to register, users have to input their name, email, role, along with their choice of events at the conference. The cost total is calculated and added to the DOM dynamically. The form will not allow users to choose events with conflicting times. The payment option that the user chooses is the only one that displays. And if there are any errors with input, the form will not submit, and will give the appropriate error messages.",
             "technologies": ["HTML","CSS", "JavaScript", "jQuery"],
             "live_link": "https://usmanmehm.github.io/tech-degree-project-3/",
             "github_link": "https://github.com/usmanmehm/tech-degree-project-3",
@@ -30,7 +30,7 @@
         {
             "id": 3,
             "project_name": "Tic Tac Toe Game",
-            "description": "",
+            "description": "Tic Tac Toe web app with 1 player and 2 player modes. The game prompts the player(s) to enter their name(s) and then you proceed to play the game. If you get 3 in a row, you win! If no one has won when the board is full, its a tie. The game also includes the option to play with a computer, although the computer is programmed to click on boxes randomly. Looking into creating a computer that is unbeatable for a future release.",
             "technologies": ["HTML","CSS", "JavaScript", "jQuery"],
             "live_link": "https://usmanmehm.github.io/tech-degree-project-4",
             "github_link": "https://github.com/usmanmehm/tech-degree-project-4",
@@ -39,7 +39,7 @@
         {
             "id": 4,
             "project_name": "Awesome Startup Employee Directory",
-            "description": "",
+            "description": "With a random user generating API using AJAX, I populated the list of employees on this web app. The API also gives us random names and details. These details can be viewed in full when you click on an employee's card to open up a modal window. You can navigate from one employee to the other by using the next and previous buttons. If you are searching for a specific employee, you can use the search bar to filter through employees (filters with every key pressed).",
             "technologies": ["HTML","CSS", "JavaScript", "jQuery", "AJAX", "APIs"],
             "live_link": "https://usmanmehm.github.io/tech-degree-project-5/",
             "github_link": "https://github.com/usmanmehm/tech-degree-project-5",
