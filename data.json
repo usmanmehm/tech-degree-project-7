@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This app chooses a random quote and displays it on the screen when the 'Show another quote' button is clicked. The background colour also changes to keep things interesting. If you take too long, the app will change the quote and colour itself. ",
+            "technologies": ["HTML","CSS", "JavaScript"],
+            "live_link": "https://usmanmehm.github.io/techdegree-project-1/",
+            "github_link": "https://github.com/usmanmehm/techdegree-project-1",
+            "image_urls": ["/static/images/project-1.png","/static/images/project-1-another.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Student Directory",
+            "description": "In this project, I implemented dynamic pagination. While the full list of students would be difficult to navigate through, splitting them up in pages and adding a search function makes it a lot easier. This app uses jQuery to select DOM elements, and dynamically generates new elements along with the pagination & search features. The number of pages are also updated as you search.",
+            "technologies": ["HTML","CSS", "JavaScript", "jQuery"],
+            "live_link": "https://usmanmehm.github.io/tech-degree-project-2/",
+            "github_link": "https://github.com/usmanmehm/tech-degree-project-2",
+            "image_urls": ["/static/images/project-2-start.png", "/static/images/project-2-search.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Full Stack Conference Registration Form",
+            "description": "",
+            "technologies": ["HTML","CSS", "JavaScript", "jQuery"],
+            "live_link": "https://usmanmehm.github.io/tech-degree-project-3/",
+            "github_link": "https://github.com/usmanmehm/tech-degree-project-3",
+            "image_urls": ["/static/images/project-3-start.png", "/static/images/project-3-errors.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "Tic Tac Toe Game",
+            "description": "",
+            "technologies": ["HTML","CSS", "JavaScript", "jQuery"],
+            "live_link": "https://usmanmehm.github.io/tech-degree-project-4",
+            "github_link": "https://github.com/usmanmehm/tech-degree-project-4",
+            "image_urls": ["/static/images/project-4-start.png", "/static/images/project-4-in-game.png","/static/images/project-4-win.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Awesome Startup Employee Directory",
+            "description": "",
+            "technologies": ["HTML","CSS", "JavaScript", "jQuery", "AJAX", "APIs"],
+            "live_link": "https://usmanmehm.github.io/tech-degree-project-5/",
+            "github_link": "https://github.com/usmanmehm/tech-degree-project-5",
+            "image_urls": ["/static/images/project-5-start.png", "/static/images/project-5-modal.png", "/static/images/project-5-modal-next.png"]
+        }
+    ]
+}
