@@ -44,6 +44,15 @@
             "live_link": "https://usmanmehm.github.io/tech-degree-project-5/",
             "github_link": "https://github.com/usmanmehm/tech-degree-project-5",
             "image_urls": ["/static/images/project-5-start.png", "/static/images/project-5-modal.png", "/static/images/project-5-modal-next.png"]
+        },
+        {
+            "id": 5,
+            "project_name": "Organic Shop Web App",
+            "description": "This is a grocery website for buying organic produce. So far, I have finished the navigation bar, the login features and the redirects for pages that require you to be logged in. I have deployed the project on Firebase. For future releases, I will import the products using our data on Firebase, allow users to choose products, and checkout. Admin users will be able to review orders and modify the product inventory.",
+            "technologies": ["Angular","Typescript", "Firebase"],
+            "live_link": "https://oshop-a7f33.firebaseapp.com/",
+            "github_link": "",
+            "image_urls": ["/static/images/organic-shop-login.png"]
         }
     ]
 }
