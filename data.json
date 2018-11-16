@@ -53,6 +53,15 @@
             "live_link": "https://oshop-a7f33.firebaseapp.com/",
             "github_link": "",
             "image_urls": ["/static/images/organic-shop-add-prod.png", "/static/images/organic-shop-login.png", "/static/images/organic-shop-product-list.png"]
+        },
+        {
+            "id": 6,
+            "project_name": "React Scoreboard App",
+            "description": "This is an app to keep game score between friends! You can increase/decrease the score of a player, add/remove players, and even use the stopwatch to time players' moves. This app was created with React (CSS was taken from Teamtreehouse.com).",
+            "technologies": ["React","JavaScript", "HTML"],
+            "live_link": "https://polar-peak-35526.herokuapp.com/",
+            "github_link": "https://github.com/usmanmehm/scoreboard-app",
+            "image_urls": ["/static/images/scoreboard.png"]
         }
     ]
 }
