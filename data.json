@@ -62,6 +62,15 @@
             "live_link": "https://polar-peak-35526.herokuapp.com/",
             "github_link": "https://github.com/usmanmehm/scoreboard-app",
             "image_urls": ["/static/images/scoreboard.png"]
+        },
+        {
+            "id": 7,
+            "project_name": "React Flickr Gallery App",
+            "description": "Using this app, you can access Flickr photos using the Flickr API. Made using React, this app fetches data from the Flickr API, and displays it on the page. Different routes are used for three default pages, and you can use the search bar to filter photos based on tag name. A 404 page is displayed when the user tries to navigate to a route that does not exist.",
+            "technologies": ["React","JavaScript", "Axios", "CSS", "Flickr API"],
+            "live_link": "https://usman-react-gallery.herokuapp.com/",
+            "github_link": "https://github.com/usmanmehm/tech-degree-project-9",
+            "image_urls": ["/static/images/gallery-home.png", "/static/images/gallery-search.png", "/static/images/gallery-route.png"]
         }
     ]
 }
